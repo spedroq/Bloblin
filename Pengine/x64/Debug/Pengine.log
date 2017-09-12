@@ -1,0 +1,21 @@
+﻿  Window.cpp
+  Timing.cpp
+c:\users\spedroq\documents\visual studio 2017\projects\zombiegametest\zombiegame\pengine\timing.cpp(35): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\zombiegametest\zombiegame\pengine\timing.cpp(41): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\zombiegametest\zombiegame\pengine\timing.cpp(60): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\zombiegametest\zombiegame\pengine\timing.cpp(63): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  TextureCache.cpp
+  SpriteBatch.cpp
+c:\users\spedroq\documents\visual studio 2017\projects\zombiegametest\zombiegame\pengine\spritebatch.cpp(36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\zombiegametest\zombiegame\pengine\spritebatch.cpp(91): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\zombiegametest\zombiegame\pengine\spritebatch.cpp(108): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Sprite.cpp
+  ResourceManager.cpp
+  Pengine.cpp
+  InputManager.cpp
+  ImageLoader.cpp
+  GLSLProgram.cpp
+  Errors.cpp
+  Camera2D.cpp
+  Generating Code...
+  Pengine.vcxproj -> C:\Users\SPedroQ\Documents\Visual Studio 2017\Projects\ZombieGameTest\ZombieGame\x64\Debug\Pengine.lib

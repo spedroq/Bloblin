@@ -1,0 +1,54 @@
+﻿  Blob.cpp
+  Bomb.cpp
+  Box.cpp
+  Button.cpp
+  DeathAnimation.cpp
+DeathAnimation.cpp(11): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  Laser.cpp
+  Level.cpp
+Level.cpp(75): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(90): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(102): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(108): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(214): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Level.cpp(233): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Level.cpp(234): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Level.cpp(262): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Level.cpp(280): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Level.cpp(295): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+Level.cpp(309): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Level.cpp(385): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(402): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(422): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(526): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(547): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Level.cpp(621): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(639): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(673): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(689): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(711): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(828): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(874): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(911): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(940): warning C4018: '<': signed/unsigned mismatch
+Level.cpp(971): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+Level.cpp(1212): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+Level.cpp(1265): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+Level.cpp(1299): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+Level.cpp(1454): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Level.cpp(1455): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  MainGame.cpp
+MainGame.cpp(322): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  Menu.cpp
+  MenuGameOver.cpp
+  MenuMain.cpp
+  MenuPause.cpp
+  PointsAnimation.cpp
+PointsAnimation.cpp(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  2532 of 2555 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bloblin.vcxproj -> C:\Users\SPedroQ\Desktop\Pedro_Quintas\source_code\Bloblin\Release\Bloblin.exe

@@ -1,0 +1,20 @@
+﻿  Camera2D.cpp
+  Errors.cpp
+  GLSLProgram.cpp
+  ImageLoader.cpp
+  InputManager.cpp
+  Pengine.cpp
+  ResourceManager.cpp
+  Sprite.cpp
+  SpriteBatch.cpp
+SpriteBatch.cpp(36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+SpriteBatch.cpp(91): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+SpriteBatch.cpp(108): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TextureCache.cpp
+  Timing.cpp
+Timing.cpp(35): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+Timing.cpp(41): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+Timing.cpp(60): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+Timing.cpp(63): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Window.cpp
+  Pengine.vcxproj -> C:\Users\SPedroQ\Documents\Visual Studio 2017\Projects\ZombieGameTest\ZombieGame\x64\Release\Pengine.lib

@@ -1,0 +1,65 @@
+﻿  PointsAnimation.cpp
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\pointsanimation.cpp(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\pointsanimation.cpp(43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MenuPause.cpp
+  MenuMain.cpp
+  MenuGameOver.cpp
+  Menu.cpp
+  MainGame.cpp
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\maingame.cpp(322): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  main.cpp
+  Level.cpp
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(214): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(233): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(234): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(262): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(267): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(280): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(295): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(309): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(433): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(481): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(505): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(514): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(547): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(549): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(659): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(724): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(733): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(746): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(763): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(783): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(796): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(823): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(869): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(908): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(937): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(966): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(971): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(985): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1015): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1092): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1165): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1190): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1212): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1227): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1257): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1265): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1291): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1299): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1384): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1399): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1414): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1421): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1454): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1455): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Laser.cpp
+  DeathAnimation.cpp
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\deathanimation.cpp(11): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  Button.cpp
+c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\button.cpp(29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Box.cpp
+  Bomb.cpp
+  Blob.cpp
+  Generating Code...
+Pengine.lib(ResourceManager.obj) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'

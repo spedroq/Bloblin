@@ -1,0 +1,23 @@
+﻿  AudioEngine.cpp
+  Camera2D.cpp
+  PengineErrors.cpp
+  GLSLProgram.cpp
+  ImageLoader.cpp
+  InputManager.cpp
+  IOManager.cpp
+IOManager.cpp(18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+IOManager.cpp(25): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Pengine.cpp
+  picoPNG.cpp
+  ResourceManager.cpp
+  Sprite.cpp
+  SpriteBatch.cpp
+  SpriteFont.cpp
+  TextureCache.cpp
+  Timing.cpp
+Timing.cpp(35): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+Timing.cpp(41): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+Timing.cpp(60): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+Timing.cpp(63): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  PengineWindow.cpp
+  Pengine.vcxproj -> C:\Users\SPedroQ\Desktop\Pedro_Quintas\source_code\Bloblin\Release\Pengine.lib
