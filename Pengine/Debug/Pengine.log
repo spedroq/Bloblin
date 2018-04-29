@@ -1,2 +1,24 @@
-﻿  PengineWindow.cpp
-  Pengine.vcxproj -> C:\Users\SPedroQ\Documents\Visual Studio 2017\Projects\Blobin\Debug\Pengine.lib
+﻿  AudioEngine.cpp
+  Camera2D.cpp
+  PengineErrors.cpp
+  GLSLProgram.cpp
+  ImageLoader.cpp
+  InputManager.cpp
+  IOManager.cpp
+c:\____development\blobland\bloblin\pengine\iomanager.cpp(18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\____development\blobland\bloblin\pengine\iomanager.cpp(25): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Pengine.cpp
+  picoPNG.cpp
+  ResourceManager.cpp
+  Sprite.cpp
+  SpriteBatch.cpp
+  SpriteFont.cpp
+  TextureCache.cpp
+  Timing.cpp
+c:\____development\blobland\bloblin\pengine\timing.cpp(35): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\____development\blobland\bloblin\pengine\timing.cpp(41): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+c:\____development\blobland\bloblin\pengine\timing.cpp(60): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\____development\blobland\bloblin\pengine\timing.cpp(63): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  PengineWindow.cpp
+  Generating Code...
+  Pengine.vcxproj -> C:\____Development\blobland\Bloblin\Debug\Pengine.lib

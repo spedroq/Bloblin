@@ -1,22 +1,22 @@
 ﻿  PengineWindow.cpp
   Timing.cpp
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\pengine\timing.cpp(35): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\pengine\timing.cpp(41): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\pengine\timing.cpp(60): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\pengine\timing.cpp(63): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\bloblin\pengine\timing.cpp(35): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\bloblin\pengine\timing.cpp(41): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\bloblin\pengine\timing.cpp(60): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\bloblin\pengine\timing.cpp(63): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
   TextureCache.cpp
   SpriteFont.cpp
   SpriteBatch.cpp
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\pengine\spritebatch.cpp(41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\pengine\spritebatch.cpp(65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\pengine\spritebatch.cpp(82): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\bloblin\pengine\spritebatch.cpp(41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\bloblin\pengine\spritebatch.cpp(65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\bloblin\pengine\spritebatch.cpp(82): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Sprite.cpp
   ResourceManager.cpp
   picoPNG.cpp
   Pengine.cpp
   IOManager.cpp
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\pengine\iomanager.cpp(18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\pengine\iomanager.cpp(25): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\bloblin\pengine\iomanager.cpp(18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\spedroq\documents\visual studio 2017\projects\bloblin\pengine\iomanager.cpp(25): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
   InputManager.cpp
   ImageLoader.cpp
   GLSLProgram.cpp
@@ -24,4 +24,4 @@ c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\pengine\io
   Camera2D.cpp
   AudioEngine.cpp
   Generating Code...
-  Pengine.vcxproj -> C:\Users\SPedroQ\Documents\Visual Studio 2017\Projects\backups\Blobin\x64\Debug\Pengine.lib
+  Pengine.vcxproj -> C:\Users\SPedroQ\Documents\Visual Studio 2017\Projects\Bloblin\x64\Debug\Pengine.lib

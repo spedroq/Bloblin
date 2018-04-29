@@ -1,51 +1,50 @@
-﻿  PointsAnimation.cpp
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\pointsanimation.cpp(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  MenuPause.cpp
-  MenuMain.cpp
-  MenuGameOver.cpp
-  Menu.cpp
-  MainGame.cpp
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\maingame.cpp(322): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
-  main.cpp
-  Level.cpp
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(75): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(90): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(102): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(108): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(214): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(233): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(234): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(262): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(280): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(295): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(309): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(385): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(402): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(422): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(526): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(547): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(621): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(639): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(673): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(689): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(711): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(828): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(874): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(911): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(940): warning C4018: '<': signed/unsigned mismatch
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(971): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1212): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1265): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1299): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1454): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\level.cpp(1455): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Laser.cpp
-  DeathAnimation.cpp
-c:\users\spedroq\documents\visual studio 2017\projects\backups\blobin\bloblin\deathanimation.cpp(11): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
-  Button.cpp
-  Box.cpp
+﻿  Blob.cpp
   Bomb.cpp
-  Blob.cpp
+  Box.cpp
+  Button.cpp
+  DeathAnimation.cpp
+c:\____development\blobland\bloblin\bloblin\deathanimation.h(6): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  Laser.cpp
+  Level.cpp
+c:\____development\blobland\bloblin\bloblin\level.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(214): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(233): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(234): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(262): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(280): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(295): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(309): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(385): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(402): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(422): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(526): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(547): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(621): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(639): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(673): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(689): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(711): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(828): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(874): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(911): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(940): warning C4018: '<': signed/unsigned mismatch
+c:\____development\blobland\bloblin\bloblin\level.cpp(971): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(1212): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(1265): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(1299): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(1454): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\____development\blobland\bloblin\bloblin\level.cpp(1455): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  MainGame.cpp
+c:\____development\blobland\bloblin\bloblin\maingame.cpp(322): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  Menu.cpp
+  MenuGameOver.cpp
+  MenuMain.cpp
+  MenuPause.cpp
+  PointsAnimation.cpp
+c:\____development\blobland\bloblin\bloblin\pointsanimation.cpp(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Generating Code...
-  Bloblin.vcxproj -> C:\Users\SPedroQ\Documents\Visual Studio 2017\Projects\backups\Blobin\Debug\Bloblin.exe
-  Bloblin.vcxproj -> C:\Users\SPedroQ\Documents\Visual Studio 2017\Projects\backups\Blobin\Debug\Bloblin.pdb (Partial PDB)
+  Bloblin.vcxproj -> C:\____Development\blobland\Bloblin\Debug\Bloblin.exe
